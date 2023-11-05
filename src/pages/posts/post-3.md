@@ -7,6 +7,6 @@ image:
     url: "https://docs.astro.build/assets/rays.webp"
     alt: "Превью изображение из лучей Astro."
 pubDate: 2023-11-04
-tags: ["astro", "блогинг", "обучение", "тяжко", "сообщество"]
+tags: ["astro", "blogging", "learning in public", "setbacks", "community"]
 ---
 Не всегда было легко, но я наслаждаюсь работой с Astro. А [сообщество в Discord](https://astro.build/chat) действительно дружелюбное и полезное!
